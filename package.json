@@ -1,0 +1,19 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "--------------------------------------------------- ## Devloped By: Megan Beekman (2022), [GitHub profile --->](https://github.com/meganbeek98)     developed using: NoSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meganbeek98/social-network-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meganbeek98/social-network-api/issues"
+  },
+  "homepage": "https://github.com/meganbeek98/social-network-api#readme"
+}
