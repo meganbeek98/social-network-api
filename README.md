@@ -32,8 +32,6 @@
 
 [GitHub repo](https://github.com/meganbeek98/social-network-api.git)
 
-[insert link description](insert-actual-link-here)
-
 ----------------------------------------------------
 
 ## Some resources used to develop: <br>
