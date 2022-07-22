@@ -30,7 +30,7 @@
 
 ## Links: <br>
 
-[GitHub repo](https://github.com/meganbeek98/social-network-api.git)
+[GitHub repo](https://github.com/meganbeek98/social-network-api.git) -needs work
 
 ----------------------------------------------------
 
