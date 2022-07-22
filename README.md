@@ -1,8 +1,8 @@
-# Social Network API
+# Social Network API -- NoSQL
 ### OSU Bootcamp Challenge 18
 ---------------------------------------------------
 ## Devloped By: Megan Beekman (2022), [GitHub profile --->](https://github.com/meganbeek98)
-    developed using: (fill in info here)
+    developed using: NoSQL
 
 ---------------------------------------------------
 
@@ -26,17 +26,11 @@
     I WANT an API for my social network that uses a NoSQL database
     SO THAT my website can handle large amounts of unstructured data
 
-## Screenshots: <br>
-
-<img>insert image path here</img>
-
-<img>insert image path here</img>
-
 ---------------------------------------------------
 
 ## Links: <br>
 
-[insert link description](insert-actual-link-here)
+[GitHub repo](https://github.com/meganbeek98/social-network-api.git)
 
 [insert link description](insert-actual-link-here)
 
